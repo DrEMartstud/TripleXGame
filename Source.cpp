@@ -60,5 +60,12 @@ int main() {
 		}
 	}
 	std::cout << "\n'Test solved. Welcome to the system!'\n";
+	std::cout << "As you logged in, you searched for useful apps.\n";
+	std::cout << "You found app named 'SOS' and immediately launched it.\n";
+	std::cout << "Now your cracked screen displays a message:\n";
+	std::cout << "'Resque drones have been sent. Wait.'\n";
+	std::cout << "You have bested your chances of survival, but there is more to come...\n";
+	std::cout << "To be continued...\n";
+
 	return 0;
 }
