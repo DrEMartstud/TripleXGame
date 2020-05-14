@@ -66,6 +66,6 @@ int main() {
 	std::cout << "'Resque drones have been sent. Wait.'\n";
 	std::cout << "You have bested your chances of survival, but there is more to come...\n";
 	std::cout << "To be continued...\n";
-
+	system("pause");
 	return 0;
 }
